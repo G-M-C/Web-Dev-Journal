@@ -1,4 +1,4 @@
-# Web_Dev_Journal
+# Web-Dev-Journal
 This repository contains various projects I had done to get acquainted with Web Development .
 
 This repository explores. 
