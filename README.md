@@ -1,2 +1,6 @@
 # Web_Dev_Journal
-A repo for all those looking to get started with Web Development .
+A great place for those looking to explore Web Development. 
+
+
+
+
