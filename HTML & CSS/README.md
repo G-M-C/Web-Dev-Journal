@@ -2,8 +2,8 @@
 
 ## Resources
 
-### HTML : https://www.w3schools.com/tags/
+#### HTML : https://www.w3schools.com/tags/
 
-### CSS : https://www.w3schools.com/cssref/
+#### CSS : https://www.w3schools.com/cssref/
 
 
