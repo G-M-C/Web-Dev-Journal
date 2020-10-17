@@ -1,5 +1,12 @@
 # Web_Dev_Journal
-A great place for those looking to explore Web Development. 
+This repository contains various projects I had done to get acquainted with Web Development .
+
+This repository explores. 
+<pre>
+1. HTML / CSS
+2. Bootstrap
+</pre>
+
 
 
 
