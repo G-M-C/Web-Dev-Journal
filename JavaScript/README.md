@@ -4,4 +4,4 @@
 
 
 ### Projects
-1. ISpy - Spy Page
+1. iSpy - Spy Page
