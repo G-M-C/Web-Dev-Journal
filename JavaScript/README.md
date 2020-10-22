@@ -1,4 +1,7 @@
 # Basics of JavaScript
 
-## Projects
+## Resources : https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+
+### Projects
 1. ISpy - Spy Page
