@@ -5,6 +5,7 @@ This repository explores.
 <pre>
 1. HTML / CSS
 2. Bootstrap
+3. JavaScript
 </pre>
 
 
